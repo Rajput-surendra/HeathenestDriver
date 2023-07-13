@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "361221327958",
+    "project_id": "heathenest-c3fa5",
+    "storage_bucket": "heathenest-c3fa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361221327958:android:7726319e5239e53f40bff7",
+        "android_client_info": {
+          "package_name": "com.healthenest.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361221327958-4vlu5tohkjtsogo5phssci6oavnb4voc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthenest.driver",
+            "certificate_hash": "0d0b3dd01f1e6cb9221d3ed0b107ec98297274ae"
+          }
+        },
+        {
+          "client_id": "361221327958-9pn76mljgs7suodbscmdch2k0pd8r3i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJAwmyy5GNzftHZwZiQoGjzCjQAMPHcko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361221327958-9pn76mljgs7suodbscmdch2k0pd8r3i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
